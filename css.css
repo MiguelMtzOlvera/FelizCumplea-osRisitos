@@ -3,6 +3,12 @@ body {
     background-color: black;
 }
 
+.cointaner h4 {
+    position: center;
+    color: blanchedalmond;
+    margin: 10%;
+}
+
 .cointaner {
     position: relative;
     min-height: 100vh;
