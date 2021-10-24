@@ -3,10 +3,11 @@ body {
     background-color: black;
 }
 
-.cointaner h4 {
+h4 {
     position: center;
     color: blanchedalmond;
     margin: 10%;
+    margin-top: 40%;
 }
 
 .cointaner {
